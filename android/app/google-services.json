@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857621889620",
+    "project_id": "studyplanner02-a5086",
+    "storage_bucket": "studyplanner02-a5086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857621889620:android:92126739bbc798028ae3c1",
+        "android_client_info": {
+          "package_name": "com.example.studyplanner02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857621889620-crp4iff9p575ii4ga4vjv3hdhlqthqn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAItw0ZMaM16Glk4pMjzefIRGK-4tlNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857621889620-crp4iff9p575ii4ga4vjv3hdhlqthqn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
