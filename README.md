@@ -38,7 +38,9 @@ Thus to overcome this we need a study planner, so that we have our schedule avai
 4. Maintaining the local database.
 5. Reading flutter doc.
 
-
+# UI
+<img src="https://user-images.githubusercontent.com/79272982/181432720-655e3ed0-6615-4610-8ba8-91558dff63f3.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79272982/181433954-16f1d48c-f7a5-4995-9b12-27936841964b.jpeg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/79272982/181434302-43b2b3f9-e85f-4f0f-9625-18310bbba11d.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79272982/181434140-b3eaab16-0159-4e40-bab4-ebaa1dd573c3.jpeg" width="250" height="500"/>
 
 
 
