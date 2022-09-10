@@ -41,3 +41,9 @@ Thus to overcome this we need a study planner, so that we have our schedule avai
 # UI
 <img src="https://user-images.githubusercontent.com/79272982/181432720-655e3ed0-6615-4610-8ba8-91558dff63f3.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79272982/181433954-16f1d48c-f7a5-4995-9b12-27936841964b.jpeg" width="250" height="500"/>
 <img src="https://user-images.githubusercontent.com/79272982/181434302-43b2b3f9-e85f-4f0f-9625-18310bbba11d.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79272982/181434140-b3eaab16-0159-4e40-bab4-ebaa1dd573c3.jpeg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/79520059/189498477-47552990-165f-4d95-8872-89b917e2408d.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79520059/189498524-2e5d3e3d-5f09-4240-851f-dfedd9cba286.jpeg" width="250" height="500"/><img src="https://user-images.githubusercontent.com/79520059/189498538-3d6316ee-d661-4a3f-b91e-e1c94c8a31ce.jpeg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/79520059/189498558-41517e92-c318-4cf3-a92e-2f67a0590b77.jpeg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/79520059/189498572-cfd7628c-100e-4f90-8152-78051a062e84.jpeg" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/79520059/189498594-9d63a928-2705-4513-b9d3-9579ec8e3c57.jpeg" width="250" height="500"/>
+
+
